@@ -1,0 +1,3 @@
+# ADB_DEBLOATER_TEMPLATE
+TEMPLATE ADD PKGS NAME "COM.PACKGENAME.EXAMPLE" 
+![image](https://user-images.githubusercontent.com/47496067/225849909-cb62b111-e20d-4e1f-9036-bd237ef76db9.png)
