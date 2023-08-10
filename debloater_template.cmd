@@ -33,6 +33,12 @@ for %%X in (
     "com.google.android.apps.nbu.paisa.user"
     "com.xiaomi.glgm"
     "com.miui.cloudservice"
+    "com.google.android.apps.youtube.music"
+    "com.miui.notes"
+    "com.miui.player"
+    "com.google.android.apps.tachyon"
+    "com.google.android.videos"
+    "com.mi.globalminusscreen"
  ) do (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
