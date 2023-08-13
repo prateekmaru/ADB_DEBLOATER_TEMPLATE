@@ -49,6 +49,7 @@ for %%X in (
     "com.facebook.katana"
     "com.soulcompany.bubbleshooter.relaxing"
     "in.amazon.mShop.android.shopping"
+    "com.preff.kb.xm"
  ) do (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
