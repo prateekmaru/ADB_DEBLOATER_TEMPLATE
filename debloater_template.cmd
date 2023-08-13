@@ -39,6 +39,16 @@ for %%X in (
     "com.google.android.apps.tachyon"
     "com.google.android.videos"
     "com.mi.globalminusscreen"
+    "com.spotify.music"
+    "com.snapchat.android"
+    "com.phonepe.app"
+    "com.netflix.mediaclient"
+    "in.mohalla.video"
+    "com.mi.global.shop"
+    "com.linkedin.android"
+    "com.facebook.katana"
+    "com.soulcompany.bubbleshooter.relaxing"
+    "in.amazon.mShop.android.shopping"
  ) do (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
