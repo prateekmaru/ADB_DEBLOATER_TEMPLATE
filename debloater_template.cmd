@@ -51,6 +51,9 @@ for %%X in (
     "in.amazon.mShop.android.shopping"
     "com.preff.kb.xm"
     "com.xiaomi.midrop"
+    "com.mipay.wallet.in"
+    "com.micredit.in"
+    "com.miui.player"
  ) do (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
