@@ -24,5 +24,5 @@ for %%X in (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
 )
-ECHO DONE....... ENJOY..........
+ECHO Debloated...... Done.......
 pause

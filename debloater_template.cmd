@@ -6,6 +6,7 @@ cd %Y%
 adb kill-server
 adb start-server
 adb devices
+adb root
 ECHO PRESS ANY KEY TO START DE-BLOATING...........
 pause
 for %%X in (
@@ -68,5 +69,5 @@ for %%X in (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
 )
-ECHO DONE....... ENJOY..........
+ECHO Debloated...... Done.......
 pause
