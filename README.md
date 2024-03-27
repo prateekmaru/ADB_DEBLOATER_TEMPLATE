@@ -7,7 +7,7 @@ TEMPLATE ADD PKGS NAME "COM.PACKGENAME.EXAMPLE"
 |   About Phone  |   Debloated App Drawer  |
 | --- | --- |
 |   ![image](https://github.com/xprateek/ADB_DEBLOATER_TEMPLATE/assets/47496067/ba12173d-b9cc-4dca-a5ac-7629d3d3a434)  |  ![image](https://github.com/xprateek/ADB_DEBLOATER_TEMPLATE/assets/47496067/5efb4d54-b425-408e-92a7-1192817fb93f)
-   |
+
 
 
 
