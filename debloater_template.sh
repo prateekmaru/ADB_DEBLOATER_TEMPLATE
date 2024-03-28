@@ -71,20 +71,13 @@ for X in \
         "com.block.juggle" \
         "com.mi.globalminusscreen" \
         "com.xiaomi.glgm" \
-        "com.xiaomi.mipicks" \
         "com.xiaomi.smarthome" \
         "com.mi.global.shop" \
         "com.opera.browser.afin" \
         "com.fugo.wow" \
         "com.google.android.apps.subscriptions.red" \
-        "com.mi.android.globalFileexplorer" \
         "com.miui.compass" \
-        "com.android.contacts" \
-        "com.android.providers.downloads.ui" \
         "com.miui.fm" \
-        "com.miui.gallery" \
-        "com.xiaomi.glgm" \
-        "com.xiaomi.mipicks" \
         "com.android.mms" \
         "com.xiaomi.smarthome" \
         "com.duokan.phone.remotecontroller" \
@@ -92,13 +85,17 @@ for X in \
         "com.miui.player" \
         "com.android.soundrecorder" \
         "com.xiaomi.scanner" \
-        "com.miui.securitycenter" \
         "com.miui.miservice" \
         "com.xiaomi.midrop" \
-        "com.android.thememanager" \
         "com.miui.weather2" \
         "com.miui.weather" \
-        "com.xiaomi.mi_care" 
+        "com.xiaomi.mi_care" \
+        "com.mi.globalbrowser" \
+        "com.mi.health" \
+        "com.android.email" \
+        "com.miui.huanji" \
+        "com.miui.videoplayer" \
+        "com.miui.personalassistant"
 do
     adb shell pm uninstall "$X"
     adb shell pm uninstall --user 0 "$X"
