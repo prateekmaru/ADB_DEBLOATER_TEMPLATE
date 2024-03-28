@@ -38,7 +38,6 @@ for X in \
         "com.xiaomi.glgm" \
         "com.miui.cloudservice" \
         "com.google.android.apps.youtube.music" \
-        "com.miui.notes" \
         "com.miui.player" \
         "com.google.android.apps.tachyon" \
         "com.google.android.videos" \
@@ -78,13 +77,10 @@ for X in \
         "com.google.android.apps.subscriptions.red" \
         "com.miui.compass" \
         "com.miui.fm" \
-        "com.android.mms" \
         "com.xiaomi.smarthome" \
         "com.duokan.phone.remotecontroller" \
         "com.mi.global.shop" \
         "com.miui.player" \
-        "com.android.soundrecorder" \
-        "com.xiaomi.scanner" \
         "com.miui.miservice" \
         "com.xiaomi.midrop" \
         "com.miui.weather2" \
