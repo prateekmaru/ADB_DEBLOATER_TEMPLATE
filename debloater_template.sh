@@ -86,6 +86,8 @@ for X in \
         "com.android.email" \
         "com.miui.huanji" \
         "com.miui.videoplayer" \
+        "com.miui.fm" \
+        "com.miui.miservice" \
         "com.miui.personalassistant"
 do
     adb shell pm uninstall "$X"
