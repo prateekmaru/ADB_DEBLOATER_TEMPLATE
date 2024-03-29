@@ -25,7 +25,6 @@ for X in \
         "com.facebook.appmanager" \
         "com.facebook.services" \
         "com.xiaomi.payment" \
-        "com.miui.miservice" \
         "com.tencent.soter.soterserver" \
         "com.miui.daemon" \
         "com.miui.cloudbackup" \
@@ -41,7 +40,6 @@ for X in \
         "com.miui.player" \
         "com.google.android.apps.tachyon" \
         "com.google.android.videos" \
-        "com.mi.globalminusscreen" \
         "com.spotify.music" \
         "com.snapchat.android" \
         "com.phonepe.app" \
@@ -68,7 +66,6 @@ for X in \
         "com.crazy.juicer.xm" \
         "com.sukhavati.gotoplaying.bubble.BubbleShooter.mint" \
         "com.block.juggle" \
-        "com.mi.globalminusscreen" \
         "com.xiaomi.glgm" \
         "com.xiaomi.smarthome" \
         "com.mi.global.shop" \
@@ -76,12 +73,10 @@ for X in \
         "com.fugo.wow" \
         "com.google.android.apps.subscriptions.red" \
         "com.miui.compass" \
-        "com.miui.fm" \
         "com.xiaomi.smarthome" \
         "com.duokan.phone.remotecontroller" \
         "com.mi.global.shop" \
         "com.miui.player" \
-        "com.miui.miservice" \
         "com.xiaomi.midrop" \
         "com.miui.weather2" \
         "com.miui.weather" \
