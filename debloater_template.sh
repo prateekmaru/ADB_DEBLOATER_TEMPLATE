@@ -88,7 +88,8 @@ for X in \
         "com.miui.videoplayer" \
         "com.miui.fm" \
         "com.miui.miservice" \
-        "com.miui.personalassistant"
+        "com.miui.personalassistant" \
+        "org.omnirom.logcat"
 do
     adb shell pm uninstall "$X"
     adb shell pm uninstall --user 0 "$X"
