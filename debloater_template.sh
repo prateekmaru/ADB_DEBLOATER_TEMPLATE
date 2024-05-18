@@ -96,6 +96,9 @@ for X in \
 	"com.miui.videoplayer" \
 	"com.miui.player" \
 	"com.google.android.music" \
+	"com.mintgames.schuman.ablock" \
+	"com.king.candycrushsaga" \
+	"com.mintgames.zentriple3d" \
 	"com.amazon.avod.thirdpartyclient"
 do
     adb shell pm uninstall "$X"

@@ -95,6 +95,9 @@ for %%X in (
 	"com.miui.player"
 	"com.google.android.music"
 	"com.amazon.avod.thirdpartyclient"
+	"com.mintgames.schuman.ablock"
+	"com.king.candycrushsaga"
+	"com.mintgames.zentriple3d"
  ) do (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
