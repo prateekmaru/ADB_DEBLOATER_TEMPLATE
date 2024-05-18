@@ -88,6 +88,13 @@ for %%X in (
         "com.miui.fm"
         "com.miui.miservice"
         "com.miui.personalassistant"
+	"com.xiaomi.midrop"
+	"com.mi.globalbrowser"
+	"com.mi.global.bbs"
+	"com.miui.videoplayer"
+	"com.miui.player"
+	"com.google.android.music"
+	"com.amazon.avod.thirdpartyclient"
  ) do (
     adb shell pm uninstall %%X
     adb shell pm uninstall --user 0 %%X
